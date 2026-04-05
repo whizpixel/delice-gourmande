@@ -1,4 +1,4 @@
-# 🌸 Fleur Gourmande — Site Vitrine
+# 🌸 Délice Gourmande — Site Vitrine
 
 Site vitrine pour **Fleur Gourmande**, une boutique artisanale proposant des compositions florales et des douceurs maison. One-pager responsive conçu pour présenter les créations et faciliter la prise de contact.
 
